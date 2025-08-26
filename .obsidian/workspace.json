@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2d677a95b8fd891d",
+    "type": "split",
+    "children": [
+      {
+        "id": "32af9973b0f85649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81a6bc4610483d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AXI_and_PCIE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AXI_and_PCIE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73736b39eeb7fdcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f403c56bdebc8492",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d470777fd0891d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "022f219eeb0d3ed9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1ca6d3189eee2e05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "62da377ff4d8dba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19d6cd28a687b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7d4444f793d017b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8e222ad59b2ee322",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "c562705add89d151",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f071973fd552f9de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b81a6bc4610483d3",
+  "lastOpenFiles": [
+    "attachments/Pasted image 20250820204721.png",
+    "attachments",
+    "Program File/矩阵求逆/矩阵求逆.md",
+    "AXI and PCIE.md",
+    "Program File/RL/Markov/马尔可夫决策过程.md",
+    "Program File/矩阵求逆",
+    "Program File/RL/Markov/attachments/Pasted image 20250819002811.png",
+    "Program File/RL/Markov/attachments",
+    "Program File/CPP/Cmake/CMake.md",
+    "Program File/RL/Markov",
+    "Program File/RL",
+    "Program File/quant/黄金坑选股公式.md",
+    "Program File/数据结构与算法/树状数组和线段树.md",
+    "Program File/quant",
+    "未命名",
+    "Program File/CPP/Cmake/cmake_build/CMakeFiles/3.26.3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.write.1.tlog",
+    "Program File/CPP/Cmake/cmake_build/CMakeFiles/3.26.3/VCTargetsPath/Debug/VCTargetsPath.tlog/VCTargetsPath.lastbuildstate",
+    "Program File/CPP/Cmake/cmake_build/CMakeFiles/3.26.3/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.secondary.1.tlog",
+    "Program File/数据结构与算法/attachments/Pasted image 20250806121510.png",
+    "Program File/CPP/CPPReflection/C++ 反射系统.md",
+    "Program File/repository/attachments/1750936527772.png",
+    "Program File/repository/attachments/1750937690206.png",
+    "Program File/repository/attachments/1750936454977.png",
+    "Program File/repository/attachments/1750936166533.png",
+    "Program File/repository/Bloom Filter.md",
+    "Program File/repository/NoC的基本数据.md",
+    "Program File/repository/片上网络通信架构研究.md"
+  ]
+}
